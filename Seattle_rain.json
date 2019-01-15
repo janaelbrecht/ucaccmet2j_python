@@ -1,0 +1,1326 @@
+{
+    "2010-01-03": {
+        "month": 1,
+        "precipitation": 3
+    },
+    "2010-01-04": {
+        "month": 1,
+        "precipitation": 76
+    },
+    "2010-01-05": {
+        "month": 1,
+        "precipitation": 165
+    },
+    "2010-01-06": {
+        "month": 1,
+        "precipitation": 8
+    },
+    "2010-01-07": {
+        "month": 1,
+        "precipitation": 0
+    },
+    "2010-01-08": {
+        "month": 1,
+        "precipitation": 64
+    },
+    "2010-01-09": {
+        "month": 1,
+        "precipitation": 249
+    },
+    "2010-01-10": {
+        "month": 1,
+        "precipitation": 5
+    },
+    "2010-01-11": {
+        "month": 1,
+        "precipitation": 114
+    },
+    "2010-01-12": {
+        "month": 1,
+        "precipitation": 318
+    },
+    "2010-01-13": {
+        "month": 1,
+        "precipitation": 69
+    },
+    "2010-01-14": {
+        "month": 1,
+        "precipitation": 64
+    },
+    "2010-01-15": {
+        "month": 1,
+        "precipitation": 117
+    },
+    "2010-01-16": {
+        "month": 1,
+        "precipitation": 145
+    },
+    "2010-01-17": {
+        "month": 1,
+        "precipitation": 69
+    },
+    "2010-01-19": {
+        "month": 1,
+        "precipitation": 3
+    },
+    "2010-01-20": {
+        "month": 1,
+        "precipitation": 0
+    },
+    "2010-01-21": {
+        "month": 1,
+        "precipitation": 0
+    },
+    "2010-01-22": {
+        "month": 1,
+        "precipitation": 0
+    },
+    "2010-01-23": {
+        "month": 1,
+        "precipitation": 8
+    },
+    "2010-01-24": {
+        "month": 1,
+        "precipitation": 3
+    },
+    "2010-01-25": {
+        "month": 1,
+        "precipitation": 132
+    },
+    "2010-01-26": {
+        "month": 1,
+        "precipitation": 0
+    },
+    "2010-01-27": {
+        "month": 1,
+        "precipitation": 0
+    },
+    "2010-01-28": {
+        "month": 1,
+        "precipitation": 0
+    },
+    "2010-01-29": {
+        "month": 1,
+        "precipitation": 0
+    },
+    "2010-01-30": {
+        "month": 1,
+        "precipitation": 43
+    },
+    "2010-01-31": {
+        "month": 1,
+        "precipitation": 38
+    },
+    "2010-02-01": {
+        "month": 2,
+        "precipitation": 0
+    },
+    "2010-02-02": {
+        "month": 2,
+        "precipitation": 15
+    },
+    "2010-02-03": {
+        "month": 2,
+        "precipitation": 0
+    },
+    "2010-02-04": {
+        "month": 2,
+        "precipitation": 107
+    },
+    "2010-02-05": {
+        "month": 2,
+        "precipitation": 38
+    },
+    "2010-02-06": {
+        "month": 2,
+        "precipitation": 0
+    },
+    "2010-02-07": {
+        "month": 2,
+        "precipitation": 51
+    },
+    "2010-02-09": {
+        "month": 2,
+        "precipitation": 0
+    },
+    "2010-02-11": {
+        "month": 2,
+        "precipitation": 46
+    },
+    "2010-02-12": {
+        "month": 2,
+        "precipitation": 76
+    },
+    "2010-02-13": {
+        "month": 2,
+        "precipitation": 99
+    },
+    "2010-02-15": {
+        "month": 2,
+        "precipitation": 13
+    },
+    "2010-02-17": {
+        "month": 2,
+        "precipitation": 0
+    },
+    "2010-02-18": {
+        "month": 2,
+        "precipitation": 0
+    },
+    "2010-02-19": {
+        "month": 2,
+        "precipitation": 0
+    },
+    "2010-02-20": {
+        "month": 2,
+        "precipitation": 0
+    },
+    "2010-02-21": {
+        "month": 2,
+        "precipitation": 0
+    },
+    "2010-02-22": {
+        "month": 2,
+        "precipitation": 0
+    },
+    "2010-02-23": {
+        "month": 2,
+        "precipitation": 0
+    },
+    "2010-02-24": {
+        "month": 2,
+        "precipitation": 64
+    },
+    "2010-02-25": {
+        "month": 2,
+        "precipitation": 23
+    },
+    "2010-02-26": {
+        "month": 2,
+        "precipitation": 71
+    },
+    "2010-02-27": {
+        "month": 2,
+        "precipitation": 127
+    },
+    "2010-02-28": {
+        "month": 2,
+        "precipitation": 0
+    },
+    "2010-03-01": {
+        "month": 3,
+        "precipitation": 0
+    },
+    "2010-03-02": {
+        "month": 3,
+        "precipitation": 3
+    },
+    "2010-03-03": {
+        "month": 3,
+        "precipitation": 10
+    },
+    "2010-03-04": {
+        "month": 3,
+        "precipitation": 13
+    },
+    "2010-03-05": {
+        "month": 3,
+        "precipitation": 0
+    },
+    "2010-03-08": {
+        "month": 3,
+        "precipitation": 20
+    },
+    "2010-03-09": {
+        "month": 3,
+        "precipitation": 0
+    },
+    "2010-03-10": {
+        "month": 3,
+        "precipitation": 23
+    },
+    "2010-03-11": {
+        "month": 3,
+        "precipitation": 43
+    },
+    "2010-03-12": {
+        "month": 3,
+        "precipitation": 264
+    },
+    "2010-03-13": {
+        "month": 3,
+        "precipitation": 13
+    },
+    "2010-03-14": {
+        "month": 3,
+        "precipitation": 0
+    },
+    "2010-03-15": {
+        "month": 3,
+        "precipitation": 8
+    },
+    "2010-03-16": {
+        "month": 3,
+        "precipitation": 0
+    },
+    "2010-03-17": {
+        "month": 3,
+        "precipitation": 10
+    },
+    "2010-03-18": {
+        "month": 3,
+        "precipitation": 0
+    },
+    "2010-03-22": {
+        "month": 3,
+        "precipitation": 10
+    },
+    "2010-03-23": {
+        "month": 3,
+        "precipitation": 0
+    },
+    "2010-03-24": {
+        "month": 3,
+        "precipitation": 0
+    },
+    "2010-03-25": {
+        "month": 3,
+        "precipitation": 25
+    },
+    "2010-03-26": {
+        "month": 3,
+        "precipitation": 61
+    },
+    "2010-03-27": {
+        "month": 3,
+        "precipitation": 0
+    },
+    "2010-03-28": {
+        "month": 3,
+        "precipitation": 36
+    },
+    "2010-03-29": {
+        "month": 3,
+        "precipitation": 173
+    },
+    "2010-03-30": {
+        "month": 3,
+        "precipitation": 130
+    },
+    "2010-03-31": {
+        "month": 3,
+        "precipitation": 28
+    },
+    "2010-04-01": {
+        "month": 4,
+        "precipitation": 3
+    },
+    "2010-04-02": {
+        "month": 4,
+        "precipitation": 46
+    },
+    "2010-04-03": {
+        "month": 4,
+        "precipitation": 117
+    },
+    "2010-04-04": {
+        "month": 4,
+        "precipitation": 0
+    },
+    "2010-04-05": {
+        "month": 4,
+        "precipitation": 36
+    },
+    "2010-04-06": {
+        "month": 4,
+        "precipitation": 53
+    },
+    "2010-04-07": {
+        "month": 4,
+        "precipitation": 15
+    },
+    "2010-04-08": {
+        "month": 4,
+        "precipitation": 76
+    },
+    "2010-04-09": {
+        "month": 4,
+        "precipitation": 5
+    },
+    "2010-04-10": {
+        "month": 4,
+        "precipitation": 0
+    },
+    "2010-04-11": {
+        "month": 4,
+        "precipitation": 0
+    },
+    "2010-04-12": {
+        "month": 4,
+        "precipitation": 0
+    },
+    "2010-04-13": {
+        "month": 4,
+        "precipitation": 10
+    },
+    "2010-04-14": {
+        "month": 4,
+        "precipitation": 10
+    },
+    "2010-04-15": {
+        "month": 4,
+        "precipitation": 0
+    },
+    "2010-04-16": {
+        "month": 4,
+        "precipitation": 5
+    },
+    "2010-04-17": {
+        "month": 4,
+        "precipitation": 13
+    },
+    "2010-04-18": {
+        "month": 4,
+        "precipitation": 25
+    },
+    "2010-04-19": {
+        "month": 4,
+        "precipitation": 0
+    },
+    "2010-04-20": {
+        "month": 4,
+        "precipitation": 5
+    },
+    "2010-04-21": {
+        "month": 4,
+        "precipitation": 140
+    },
+    "2010-04-22": {
+        "month": 4,
+        "precipitation": 13
+    },
+    "2010-04-23": {
+        "month": 4,
+        "precipitation": 0
+    },
+    "2010-04-24": {
+        "month": 4,
+        "precipitation": 13
+    },
+    "2010-04-25": {
+        "month": 4,
+        "precipitation": 0
+    },
+    "2010-04-26": {
+        "month": 4,
+        "precipitation": 0
+    },
+    "2010-04-27": {
+        "month": 4,
+        "precipitation": 127
+    },
+    "2010-04-28": {
+        "month": 4,
+        "precipitation": 20
+    },
+    "2010-04-29": {
+        "month": 4,
+        "precipitation": 20
+    },
+    "2010-05-01": {
+        "month": 5,
+        "precipitation": 13
+    },
+    "2010-05-02": {
+        "month": 5,
+        "precipitation": 3
+    },
+    "2010-05-03": {
+        "month": 5,
+        "precipitation": 38
+    },
+    "2010-05-04": {
+        "month": 5,
+        "precipitation": 25
+    },
+    "2010-05-05": {
+        "month": 5,
+        "precipitation": 38
+    },
+    "2010-05-06": {
+        "month": 5,
+        "precipitation": 51
+    },
+    "2010-05-07": {
+        "month": 5,
+        "precipitation": 0
+    },
+    "2010-05-08": {
+        "month": 5,
+        "precipitation": 0
+    },
+    "2010-05-09": {
+        "month": 5,
+        "precipitation": 0
+    },
+    "2010-05-10": {
+        "month": 5,
+        "precipitation": 38
+    },
+    "2010-05-11": {
+        "month": 5,
+        "precipitation": 5
+    },
+    "2010-05-12": {
+        "month": 5,
+        "precipitation": 0
+    },
+    "2010-05-13": {
+        "month": 5,
+        "precipitation": 0
+    },
+    "2010-05-14": {
+        "month": 5,
+        "precipitation": 0
+    },
+    "2010-05-15": {
+        "month": 5,
+        "precipitation": 0
+    },
+    "2010-05-16": {
+        "month": 5,
+        "precipitation": 0
+    },
+    "2010-05-17": {
+        "month": 5,
+        "precipitation": 0
+    },
+    "2010-05-18": {
+        "month": 5,
+        "precipitation": 8
+    },
+    "2010-05-19": {
+        "month": 5,
+        "precipitation": 18
+    },
+    "2010-05-20": {
+        "month": 5,
+        "precipitation": 97
+    },
+    "2010-05-21": {
+        "month": 5,
+        "precipitation": 38
+    },
+    "2010-05-22": {
+        "month": 5,
+        "precipitation": 140
+    },
+    "2010-05-23": {
+        "month": 5,
+        "precipitation": 127
+    },
+    "2010-05-24": {
+        "month": 5,
+        "precipitation": 0
+    },
+    "2010-05-25": {
+        "month": 5,
+        "precipitation": 38
+    },
+    "2010-05-26": {
+        "month": 5,
+        "precipitation": 0
+    },
+    "2010-05-27": {
+        "month": 5,
+        "precipitation": 51
+    },
+    "2010-05-28": {
+        "month": 5,
+        "precipitation": 81
+    },
+    "2010-05-29": {
+        "month": 5,
+        "precipitation": 56
+    },
+    "2010-05-30": {
+        "month": 5,
+        "precipitation": 3
+    },
+    "2010-05-31": {
+        "month": 5,
+        "precipitation": 56
+    },
+    "2010-06-01": {
+        "month": 6,
+        "precipitation": 33
+    },
+    "2010-06-02": {
+        "month": 6,
+        "precipitation": 43
+    },
+    "2010-06-03": {
+        "month": 6,
+        "precipitation": 76
+    },
+    "2010-06-04": {
+        "month": 6,
+        "precipitation": 81
+    },
+    "2010-06-05": {
+        "month": 6,
+        "precipitation": 25
+    },
+    "2010-06-06": {
+        "month": 6,
+        "precipitation": 13
+    },
+    "2010-06-07": {
+        "month": 6,
+        "precipitation": 38
+    },
+    "2010-06-08": {
+        "month": 6,
+        "precipitation": 64
+    },
+    "2010-06-09": {
+        "month": 6,
+        "precipitation": 51
+    },
+    "2010-06-10": {
+        "month": 6,
+        "precipitation": 28
+    },
+    "2010-06-11": {
+        "month": 6,
+        "precipitation": 5
+    },
+    "2010-06-12": {
+        "month": 6,
+        "precipitation": 0
+    },
+    "2010-06-13": {
+        "month": 6,
+        "precipitation": 0
+    },
+    "2010-06-14": {
+        "month": 6,
+        "precipitation": 0
+    },
+    "2010-06-15": {
+        "month": 6,
+        "precipitation": 3
+    },
+    "2010-06-16": {
+        "month": 6,
+        "precipitation": 84
+    },
+    "2010-06-17": {
+        "month": 6,
+        "precipitation": 0
+    },
+    "2010-06-18": {
+        "month": 6,
+        "precipitation": 0
+    },
+    "2010-06-19": {
+        "month": 6,
+        "precipitation": 0
+    },
+    "2010-06-20": {
+        "month": 6,
+        "precipitation": 8
+    },
+    "2010-06-21": {
+        "month": 6,
+        "precipitation": 46
+    },
+    "2010-06-22": {
+        "month": 6,
+        "precipitation": 0
+    },
+    "2010-06-23": {
+        "month": 6,
+        "precipitation": 0
+    },
+    "2010-06-24": {
+        "month": 6,
+        "precipitation": 0
+    },
+    "2010-06-25": {
+        "month": 6,
+        "precipitation": 0
+    },
+    "2010-06-26": {
+        "month": 6,
+        "precipitation": 3
+    },
+    "2010-06-27": {
+        "month": 6,
+        "precipitation": 0
+    },
+    "2010-06-28": {
+        "month": 6,
+        "precipitation": 0
+    },
+    "2010-06-29": {
+        "month": 6,
+        "precipitation": 0
+    },
+    "2010-06-30": {
+        "month": 6,
+        "precipitation": 0
+    },
+    "2010-07-01": {
+        "month": 7,
+        "precipitation": 0
+    },
+    "2010-07-02": {
+        "month": 7,
+        "precipitation": 30
+    },
+    "2010-07-03": {
+        "month": 7,
+        "precipitation": 13
+    },
+    "2010-07-04": {
+        "month": 7,
+        "precipitation": 3
+    },
+    "2010-07-05": {
+        "month": 7,
+        "precipitation": 0
+    },
+    "2010-07-06": {
+        "month": 7,
+        "precipitation": 0
+    },
+    "2010-07-07": {
+        "month": 7,
+        "precipitation": 0
+    },
+    "2010-07-08": {
+        "month": 7,
+        "precipitation": 0
+    },
+    "2010-07-09": {
+        "month": 7,
+        "precipitation": 0
+    },
+    "2010-07-10": {
+        "month": 7,
+        "precipitation": 0
+    },
+    "2010-07-11": {
+        "month": 7,
+        "precipitation": 0
+    },
+    "2010-07-12": {
+        "month": 7,
+        "precipitation": 5
+    },
+    "2010-07-13": {
+        "month": 7,
+        "precipitation": 3
+    },
+    "2010-07-14": {
+        "month": 7,
+        "precipitation": 0
+    },
+    "2010-07-15": {
+        "month": 7,
+        "precipitation": 0
+    },
+    "2010-07-16": {
+        "month": 7,
+        "precipitation": 0
+    },
+    "2010-07-17": {
+        "month": 7,
+        "precipitation": 0
+    },
+    "2010-07-18": {
+        "month": 7,
+        "precipitation": 0
+    },
+    "2010-07-19": {
+        "month": 7,
+        "precipitation": 0
+    },
+    "2010-07-20": {
+        "month": 7,
+        "precipitation": 0
+    },
+    "2010-07-21": {
+        "month": 7,
+        "precipitation": 0
+    },
+    "2010-07-22": {
+        "month": 7,
+        "precipitation": 0
+    },
+    "2010-07-23": {
+        "month": 7,
+        "precipitation": 0
+    },
+    "2010-07-24": {
+        "month": 7,
+        "precipitation": 0
+    },
+    "2010-07-25": {
+        "month": 7,
+        "precipitation": 0
+    },
+    "2010-07-26": {
+        "month": 7,
+        "precipitation": 0
+    },
+    "2010-08-08": {
+        "month": 8,
+        "precipitation": 53
+    },
+    "2010-08-09": {
+        "month": 8,
+        "precipitation": 10
+    },
+    "2010-08-10": {
+        "month": 8,
+        "precipitation": 3
+    },
+    "2010-08-11": {
+        "month": 8,
+        "precipitation": 0
+    },
+    "2010-08-12": {
+        "month": 8,
+        "precipitation": 0
+    },
+    "2010-08-13": {
+        "month": 8,
+        "precipitation": 0
+    },
+    "2010-08-14": {
+        "month": 8,
+        "precipitation": 0
+    },
+    "2010-08-15": {
+        "month": 8,
+        "precipitation": 0
+    },
+    "2010-08-16": {
+        "month": 8,
+        "precipitation": 0
+    },
+    "2010-08-17": {
+        "month": 8,
+        "precipitation": 0
+    },
+    "2010-08-18": {
+        "month": 8,
+        "precipitation": 0
+    },
+    "2010-08-19": {
+        "month": 8,
+        "precipitation": 0
+    },
+    "2010-08-20": {
+        "month": 8,
+        "precipitation": 0
+    },
+    "2010-08-21": {
+        "month": 8,
+        "precipitation": 0
+    },
+    "2010-08-22": {
+        "month": 8,
+        "precipitation": 10
+    },
+    "2010-08-23": {
+        "month": 8,
+        "precipitation": 25
+    },
+    "2010-08-24": {
+        "month": 8,
+        "precipitation": 0
+    },
+    "2010-08-25": {
+        "month": 8,
+        "precipitation": 0
+    },
+    "2010-08-26": {
+        "month": 8,
+        "precipitation": 0
+    },
+    "2010-08-27": {
+        "month": 8,
+        "precipitation": 3
+    },
+    "2010-08-28": {
+        "month": 8,
+        "precipitation": 0
+    },
+    "2010-08-29": {
+        "month": 8,
+        "precipitation": 0
+    },
+    "2010-08-30": {
+        "month": 8,
+        "precipitation": 0
+    },
+    "2010-08-31": {
+        "month": 8,
+        "precipitation": 0
+    },
+    "2010-09-01": {
+        "month": 9,
+        "precipitation": 94
+    },
+    "2010-09-02": {
+        "month": 9,
+        "precipitation": 0
+    },
+    "2010-09-03": {
+        "month": 9,
+        "precipitation": 0
+    },
+    "2010-09-04": {
+        "month": 9,
+        "precipitation": 0
+    },
+    "2010-09-05": {
+        "month": 9,
+        "precipitation": 0
+    },
+    "2010-09-06": {
+        "month": 9,
+        "precipitation": 8
+    },
+    "2010-09-07": {
+        "month": 9,
+        "precipitation": 33
+    },
+    "2010-09-08": {
+        "month": 9,
+        "precipitation": 76
+    },
+    "2010-09-09": {
+        "month": 9,
+        "precipitation": 51
+    },
+    "2010-09-12": {
+        "month": 9,
+        "precipitation": 0
+    },
+    "2010-09-16": {
+        "month": 9,
+        "precipitation": 48
+    },
+    "2010-09-17": {
+        "month": 9,
+        "precipitation": 109
+    },
+    "2010-09-18": {
+        "month": 9,
+        "precipitation": 170
+    },
+    "2010-09-19": {
+        "month": 9,
+        "precipitation": 211
+    },
+    "2010-09-20": {
+        "month": 9,
+        "precipitation": 25
+    },
+    "2010-09-21": {
+        "month": 9,
+        "precipitation": 0
+    },
+    "2010-09-23": {
+        "month": 9,
+        "precipitation": 3
+    },
+    "2010-09-24": {
+        "month": 9,
+        "precipitation": 58
+    },
+    "2010-09-25": {
+        "month": 9,
+        "precipitation": 0
+    },
+    "2010-09-26": {
+        "month": 9,
+        "precipitation": 41
+    },
+    "2010-09-27": {
+        "month": 9,
+        "precipitation": 66
+    },
+    "2010-09-28": {
+        "month": 9,
+        "precipitation": 3
+    },
+    "2010-09-29": {
+        "month": 9,
+        "precipitation": 0
+    },
+    "2010-09-30": {
+        "month": 9,
+        "precipitation": 0
+    },
+    "2010-10-01": {
+        "month": 10,
+        "precipitation": 0
+    },
+    "2010-10-02": {
+        "month": 10,
+        "precipitation": 0
+    },
+    "2010-10-03": {
+        "month": 10,
+        "precipitation": 0
+    },
+    "2010-10-04": {
+        "month": 10,
+        "precipitation": 0
+    },
+    "2010-10-05": {
+        "month": 10,
+        "precipitation": 0
+    },
+    "2010-10-06": {
+        "month": 10,
+        "precipitation": 0
+    },
+    "2010-10-07": {
+        "month": 10,
+        "precipitation": 0
+    },
+    "2010-10-08": {
+        "month": 10,
+        "precipitation": 0
+    },
+    "2010-10-09": {
+        "month": 10,
+        "precipitation": 69
+    },
+    "2010-10-10": {
+        "month": 10,
+        "precipitation": 254
+    },
+    "2010-10-11": {
+        "month": 10,
+        "precipitation": 122
+    },
+    "2010-10-12": {
+        "month": 10,
+        "precipitation": 3
+    },
+    "2010-10-13": {
+        "month": 10,
+        "precipitation": 0
+    },
+    "2010-10-14": {
+        "month": 10,
+        "precipitation": 0
+    },
+    "2010-10-15": {
+        "month": 10,
+        "precipitation": 46
+    },
+    "2010-10-16": {
+        "month": 10,
+        "precipitation": 0
+    },
+    "2010-10-17": {
+        "month": 10,
+        "precipitation": 0
+    },
+    "2010-10-18": {
+        "month": 10,
+        "precipitation": 0
+    },
+    "2010-10-19": {
+        "month": 10,
+        "precipitation": 0
+    },
+    "2010-10-20": {
+        "month": 10,
+        "precipitation": 0
+    },
+    "2010-10-21": {
+        "month": 10,
+        "precipitation": 0
+    },
+    "2010-10-22": {
+        "month": 10,
+        "precipitation": 15
+    },
+    "2010-10-23": {
+        "month": 10,
+        "precipitation": 0
+    },
+    "2010-10-24": {
+        "month": 10,
+        "precipitation": 249
+    },
+    "2010-10-25": {
+        "month": 10,
+        "precipitation": 112
+    },
+    "2010-10-26": {
+        "month": 10,
+        "precipitation": 0
+    },
+    "2010-10-27": {
+        "month": 10,
+        "precipitation": 30
+    },
+    "2010-10-28": {
+        "month": 10,
+        "precipitation": 8
+    },
+    "2010-10-29": {
+        "month": 10,
+        "precipitation": 0
+    },
+    "2010-10-30": {
+        "month": 10,
+        "precipitation": 0
+    },
+    "2010-11-01": {
+        "month": 11,
+        "precipitation": 102
+    },
+    "2010-11-02": {
+        "month": 11,
+        "precipitation": 216
+    },
+    "2010-11-03": {
+        "month": 11,
+        "precipitation": 0
+    },
+    "2010-11-04": {
+        "month": 11,
+        "precipitation": 0
+    },
+    "2010-11-05": {
+        "month": 11,
+        "precipitation": 0
+    },
+    "2010-11-06": {
+        "month": 11,
+        "precipitation": 56
+    },
+    "2010-11-07": {
+        "month": 11,
+        "precipitation": 173
+    },
+    "2010-11-08": {
+        "month": 11,
+        "precipitation": 3
+    },
+    "2010-11-09": {
+        "month": 11,
+        "precipitation": 3
+    },
+    "2010-11-10": {
+        "month": 11,
+        "precipitation": 66
+    },
+    "2010-11-11": {
+        "month": 11,
+        "precipitation": 0
+    },
+    "2010-11-12": {
+        "month": 11,
+        "precipitation": 25
+    },
+    "2010-11-13": {
+        "month": 11,
+        "precipitation": 18
+    },
+    "2010-11-14": {
+        "month": 11,
+        "precipitation": 69
+    },
+    "2010-11-15": {
+        "month": 11,
+        "precipitation": 23
+    },
+    "2010-11-16": {
+        "month": 11,
+        "precipitation": 13
+    },
+    "2010-11-17": {
+        "month": 11,
+        "precipitation": 3
+    },
+    "2010-11-18": {
+        "month": 11,
+        "precipitation": 84
+    },
+    "2010-11-19": {
+        "month": 11,
+        "precipitation": 8
+    },
+    "2010-11-20": {
+        "month": 11,
+        "precipitation": 48
+    },
+    "2010-11-21": {
+        "month": 11,
+        "precipitation": 0
+    },
+    "2010-11-22": {
+        "month": 11,
+        "precipitation": 13
+    },
+    "2010-11-23": {
+        "month": 11,
+        "precipitation": 76
+    },
+    "2010-11-24": {
+        "month": 11,
+        "precipitation": 0
+    },
+    "2010-11-25": {
+        "month": 11,
+        "precipitation": 0
+    },
+    "2010-11-26": {
+        "month": 11,
+        "precipitation": 58
+    },
+    "2010-11-27": {
+        "month": 11,
+        "precipitation": 0
+    },
+    "2010-11-28": {
+        "month": 11,
+        "precipitation": 0
+    },
+    "2010-11-29": {
+        "month": 11,
+        "precipitation": 13
+    },
+    "2010-11-30": {
+        "month": 11,
+        "precipitation": 122
+    },
+    "2010-12-01": {
+        "month": 12,
+        "precipitation": 107
+    },
+    "2010-12-02": {
+        "month": 12,
+        "precipitation": 0
+    },
+    "2010-12-03": {
+        "month": 12,
+        "precipitation": 25
+    },
+    "2010-12-04": {
+        "month": 12,
+        "precipitation": 0
+    },
+    "2010-12-05": {
+        "month": 12,
+        "precipitation": 0
+    },
+    "2010-12-06": {
+        "month": 12,
+        "precipitation": 0
+    },
+    "2010-12-07": {
+        "month": 12,
+        "precipitation": 13
+    },
+    "2010-12-08": {
+        "month": 12,
+        "precipitation": 193
+    },
+    "2010-12-09": {
+        "month": 12,
+        "precipitation": 229
+    },
+    "2010-12-10": {
+        "month": 12,
+        "precipitation": 74
+    },
+    "2010-12-12": {
+        "month": 12,
+        "precipitation": 699
+    },
+    "2010-12-13": {
+        "month": 12,
+        "precipitation": 201
+    },
+    "2010-12-14": {
+        "month": 12,
+        "precipitation": 152
+    },
+    "2010-12-15": {
+        "month": 12,
+        "precipitation": 36
+    },
+    "2010-12-16": {
+        "month": 12,
+        "precipitation": 56
+    },
+    "2010-12-17": {
+        "month": 12,
+        "precipitation": 3
+    },
+    "2010-12-18": {
+        "month": 12,
+        "precipitation": 13
+    },
+    "2010-12-20": {
+        "month": 12,
+        "precipitation": 38
+    },
+    "2010-12-21": {
+        "month": 12,
+        "precipitation": 38
+    },
+    "2010-12-22": {
+        "month": 12,
+        "precipitation": 18
+    },
+    "2010-12-23": {
+        "month": 12,
+        "precipitation": 10
+    },
+    "2010-12-24": {
+        "month": 12,
+        "precipitation": 157
+    },
+    "2010-12-25": {
+        "month": 12,
+        "precipitation": 135
+    },
+    "2010-12-26": {
+        "month": 12,
+        "precipitation": 30
+    },
+    "2010-12-27": {
+        "month": 12,
+        "precipitation": 43
+    },
+    "2010-12-28": {
+        "month": 12,
+        "precipitation": 81
+    },
+    "2010-12-29": {
+        "month": 12,
+        "precipitation": 5
+    },
+    "2010-12-30": {
+        "month": 12,
+        "precipitation": 0
+    },
+    "2010-12-31": {
+        "month": 12,
+        "precipitation": 0
+    }
+}
