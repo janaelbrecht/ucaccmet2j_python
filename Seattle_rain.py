@@ -86,3 +86,22 @@ print(precip_monthly)
 #save as json
 with open ('Seattle_rain.json', 'w') as file: 
     json.dump(precip_Seattle, file, indent=4)
+
+
+#Calculate the sum of the precipitation over the whole year
+total_precip_year = sum(precip_monthly)
+print(f'The total precipitation in Seatlle this year was {total_precip_year}') 
+
+#Calculate the relative precipitation per month
+# (percentage compared to the precipitation over the whole year)
+
+#creating a list with 12 elements 
+relative_precipitation = [0]*12
+
+#making each element of the list correspond to relative precipitation in a month
+for i in range (12):
+    relative_precipitation[i] = precip_monthly[i]/total_precip_year*
+
+#to check if it all 'adds up' 
+print(sum(relative_precipitation))
+print(relative_precipitation)
