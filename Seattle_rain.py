@@ -16,7 +16,6 @@ print(f'The station code for Seattle is {Seattle_code}.')
 
 #selecting the measurements for Seattle 
 precip_Seattle = {}
-dates = []
 with open ('precipitation.json', 'r') as file: 
     precipitation = json.load(file)
     for measurement in precipitation:
@@ -26,8 +25,6 @@ with open ('precipitation.json', 'r') as file:
                 'month' : month,
                 'precipitation': int(measurement["value"])
             }
-        else:
-            pass 
 #print(precip_Seattle)
 
 
@@ -86,7 +83,8 @@ print(precip_monthly)
 #save as json
 with open ('Seattle_rain.json', 'w') as file: 
     json.dump(precip_Seattle, file, indent=4)
-
+with open ('Seattle_rain_permonth.json', 'w') as file:
+    json.dump(precip_monthly, file, indent=4)
 
 #Calculate the sum of the precipitation over the whole year
 total_precip_year = sum(precip_monthly)
@@ -100,8 +98,75 @@ relative_precipitation = [0]*12
 
 #making each element of the list correspond to relative precipitation in a month
 for i in range (12):
-    relative_precipitation[i] = precip_monthly[i]/total_precip_year*
+    relative_precipitation[i] = precip_monthly[i]/total_precip_year
 
 #to check if it all 'adds up' 
 print(sum(relative_precipitation))
 print(relative_precipitation)
+
+
+#Rewrite your code so that it calculates all the above for each location
+stationcodes = {}
+with open ('stations.csv') as file:
+    next(file)
+    for line in file:
+        Location, State, Station = line.split(',')
+        stationcodes[Station.strip()] = {
+            'State' : State.strip(),
+            'Location' : Location.strip(),
+            'Monthly prec': [0]*12
+        }
+print(stationcodes)
+
+with open ('precipitation.json', 'r') as file: 
+    precipitation = json.load(file)
+    for measurement in precipitation:
+        month=int(str(measurement["date"][5:7]))-1
+        stationcodes[measurement["station"]]['Monthly prec'][month]+=measurement["value"]
+
+print(stationcodes)
+
+relative_prec = [0]*12 
+for station in stationcodes: 
+    stationcodes[station]['Sum prec']=sum(stationcodes[station]['Monthly prec'])
+    stationcodes[station]['Relative prec']=relative_prec
+    stationcodes[station]['Relative prec'][month]=stationcodes[station]['Monthly prec'][month]/sum(stationcodes[station]['Monthly prec'])
+    
+
+print(stationcodes)
+
+'''
+precip_per_location = {}
+precip_monthly = [0,0,0,0,0,0,0,0,0,0,0,0]
+
+
+
+
+
+
+with open ('precipitation.json', 'r') as file: 
+    precipitation = json.load(file)
+    for measurement in precipitation:
+        month=int(str(measurement["date"][5:7]))
+        value=measurement["value"]
+        precip_monthly[month-1]+= measurement["value"]
+            if measurement["station"] not in precip_per_location:
+                precip_per_location[measurement["station"]] = {
+                'precip per month': precip_monthly
+                }
+            else:
+                pass 
+
+print(precip_per_location)
+
+
+total_precip_year = sum(precip_monthly)
+print(f'The total precipitation in Seatlle this year was {total_precip_year}') 
+
+
+relative_precipitation = [0]*12
+for i in range (12):
+    relative_precipitation[i] = precip_monthly[i]/total_precip_year
+print(sum(relative_precipitation))
+print(relative_precipitation)
+'''
